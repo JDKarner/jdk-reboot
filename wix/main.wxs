@@ -61,7 +61,7 @@
     <Product
         Id='*'
         Name='reboot'
-        UpgradeCode='D9AA33F5-301C-4F9E-9913-92D2C0188F03'
+        UpgradeCode='4B837CCA-9916-4059-86F3-ECA430D271FE'
         Manufacturer='Joshua Karner joshua@karner.dev'
         Language='1033'
         Codepage='1252'
@@ -109,7 +109,7 @@
                     -->
 
                     <Directory Id='Bin' Name='bin'>
-                        <Component Id='Path' Guid='B674F723-CADB-47F9-9D69-2895967DF00C' KeyPath='yes'>
+                        <Component Id='Path' Guid='5ABC18E2-F5C9-4773-A25D-B7EDA9790DAD' KeyPath='yes'>
                             <Environment
                                 Id='PATH'
                                 Name='PATH'
